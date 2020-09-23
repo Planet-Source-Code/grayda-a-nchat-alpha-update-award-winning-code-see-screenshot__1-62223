@@ -1,0 +1,8 @@
+This file is a todo list for projects relating to NChat
+
+> Complete the Data readme
+> Add more scripts for Notch
+> Add more profiles
+> Update Notch database - More words
+> Release more NChat packs to www.solidinc.tk
+> Add custom user icon support (Icon packs, not load icons)

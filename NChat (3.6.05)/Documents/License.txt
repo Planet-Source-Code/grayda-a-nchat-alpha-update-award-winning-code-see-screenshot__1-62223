@@ -1,0 +1,26 @@
+License:
+
+This program was written as a co-project between FireStorm Visual Software / Solid Inc. Media Productions. Most code is ©2005 Solid Inc / FVS. All other code is copyrighted by their original author, and has been acknowledged in this code (Which is the only requirement for using their code). You may use this code, and pictures on your web-site, applications, documents etc., as long as the following terms are adhered to:
+
+1) ALL code (except where stated), will forever remain the property of FVS / Solid Inc.
+2) This code is NOT for sale, without prior permission, and with royalties.
+3) If you do use this code (compiled or otherwise), at home, work, school ect, then I would like to know. Contact me by e-mail: firestorm_visual@hotmail.com
+4) If you do use this code in part in your program, then please add to the code somewhere (Preferably on all related forms), the following lines:
+
+' This code was originally written by Grayda of Solid Inc. please visit the web-site
+' for help with this code, or to download other codes like this:
+
+' http://www.solidinc.tk
+
+' or, send him an e-mail:
+
+' firestorm_visual@hotmail.com
+
+5) If this code is used for illegal purposes, or modified significantly, then I will not be held responsible for any damage it causes to your computer. The code was designed with safety and stability in mind, and will not cause your computer any misfortune
+
+If you need help with this License, or you need help with the code, then drop me a line:
+
+firestorm_visual@hotmail.com
+solidinc@gmail.com
+
+PS. If you have any ideas, bugfixes, or want to help develop NChat, then e-mail me!!
