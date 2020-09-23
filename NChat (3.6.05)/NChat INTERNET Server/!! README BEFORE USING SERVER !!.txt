@@ -1,0 +1,1 @@
+If you intend to use NChat over the internet, then this program is for you. If you intend to use NChat over a network (ie. Between computers at home), then you don't need the server, because NChat works without servers when used over a small network. If you need any more help, then you can visit the NChat forums at www.solidinc.tk

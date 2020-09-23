@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+	margin-left: 5%;
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+.style1 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	filter: Shadow(Color=white, Direction=180);
+}
+.style7 {font-family: Arial}
+.style8 {color: #FFFFFF}
+.style10 {font-family: Arial;); color: #FFFFFF;}
+.style11 {font-size: 36}
+-->
+</style></head>
+
+<body>
+<table width="100%" height="100%"  border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" bgcolor="#FFFFFF"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="101" bgcolor="#000000"><div align="center"><span class="style1"> </span><span class="style10">
+          <p class="style1">NChat Alpha</p>
+          </span><span class="style7"><a href="#" onClick="DoCommand('Options')"><font color="#FFFFFF">Options</font></a> <span class="style8">|</span> <a href="#" onClick="DoCommand('Store')"><font color="#FFFFFF">Store</font></a>
+          <span class="style8">|</span>          <a href="#" onClick="DoCommand('Join')"><font color="#FFFFFF">Join a room</font></a>
+          <span class="style8">|</span>          <a href="#" onClick="DoCommand('LoadPro')"><font color="#FFFFFF">Load a profile</font></a> <span class="style8">|</span> 
+          <a href="#" onClick="DoCommand('ClearText')"><font color="#FFFFFF">Clear text</font></a> <span class="style8">|</span> 
+          <a href="#" onClick="DoCommand('About')"><font color="#FFFFFF">About NChat</font></a> </span>          </div></td>
+      </tr>
+    </table>
+    <p><NChat_HTML></p></td>
+  </tr>
+</table>
+</body>
+</html>
+
+<script language="VBScript">
+' This sub lets us change the TITLE of the internet explorer window. NChat picks up this change,
+' and then we can do basic NChat functions using HTML. Cool eh?
+	Sub DoCommand(Command)
+  		Document.Title = Command
+	End Sub
+</script>

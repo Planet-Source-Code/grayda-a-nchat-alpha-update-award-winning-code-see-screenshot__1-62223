@@ -1,0 +1,114 @@
+Some things have changed since Build 8:
+
+- ALL the profiles didn't copy correctly, because of a Resource Error, that has now been fixed
+
+- HOPEFULLY the little error with the Private messages have been fixed (WHen you double clicked, ALL the messages were opened, and not just all from ONE user
+
+- Help file is now complete, with links and everything
+
+- Help can be called from the Help menu in NChat
+
+- Script support has been removed (More of a hinderance than help)
+
+- The Help Form has been removed, because the help file is here!! :)
+
+- This changes file now exists! Wooooo!
+
+- Some pictures added to the store, to give the illusion of coolness
+
+- Testing bug removed (Caused NChat to not work AT ALL on some comps)
+
+- Plus some more fixes, additions, removals, and other junk
+
+- A SMALL amount of code optimization, and a LOT of picture optimizations!
+
+- License file. Please read it, coz it tells you what you can and can't do with my code
+
+- The port structure of NChat has been changed. Those damn admins have blocked access to any NChat below Alpha at my school, and I hope that fixes it, and some other problems.
+
+- New REALLY cool splash screen included. Uses Pixel-by-Pixel rendering for transparent PNGs
+
+- Modules 1, 2 and 3 have been sorted, and placed into more appropriately named modules
+
+- A whole lot more of the code is commented, just so it's easier for others to understand
+
+- Some comments added. More to come! Don't understand anything? E-Mail me!!
+
+- Notch has been updated, and now supports con, dis and several other NChat commands
+
+- Oh, by the way, the help file has been fixed, and slightly updated
+
+- NChat now sits at ~1000kb big!
+- You can now have unlimited Chat windows going. No longer restricted to 50 or 100
+
+- There is an Autobot help file now. You can learn how to program Notch, and a sample file is included
+
+- FINALLY! The file transfer system has had a MASSIVE overhaul and should now work
+
+- A bug with the Whiteboard was fixed, which made all pictures look funny if hovered over
+
+- Another bug (who would have guessed?!? :) ) was fixed involving user icons not being changed when selected through the options.
+
+- Notch has been updated significantly, using a new INI based system. This means more interactivity can be obtained! Woah...
+
+- NChat is now 80% Windows ME and lower compliant! (See Readme for more info)
+
+- MASSIVE PM Bug fixed, where about 1,000,000 PMs were loaded into one window.
+
+- PM window now has scrollbars! :|
+
+- Once again the room creation portion of NChat now works! I forgot that the sckRooms winsock had to be on the same port :@. Damn I'm stupid sometimes
+
+- Significant work done on the File Transfer, and at one stage, actually started to transfer files! WOAH! BUt not it doesn't work again :(
+
+- Notch (The NChat Room Robot) can now LEARN new words through interaction
+
+- NChat is now Internet Compatible! The server source is included! WOOOOOHOHOHOHOHOHOOOOO!
+
+- Text highlighting has been removed, because could cause a security error in Windows ME, where texts were not highlighted (in essence, white highlighted text on white background)
+
+- Nearly 99% of data-parsing errors relating to Result() have been fixed, because the SplitVB5 function DIDN'T add a critical extra delimiter to the end! Seemed to work alright before...
+
+- Some custom icon support. Needs to be updated though
+
+- Icon system now changed from integer based (ie. 1 = Default, 2 = Devil) to just text (Default = Default, Devil = Devil)
+
+- Several subs re-written for speed purposes (Namely the double click sub for ListView1 on frmMain)
+
+- Several "searching" subs written. You can now find a specfic private chat window, a free private chat window, a user in List1 in frmMain, as well as retrieving the INDEX of an icon name (ie Default = 1, Devil = 2 etc)
+
+- Notch's AI has been totally re-written. It was temperamental and was not the best for over private messaging. It now uses a re-vamped AI system, which is faster, and almost 100% compatible with slightly incorrect INI files.
+
+- Random word function has been removed, because it returned data headers (eg. 'svrøThis' instead of just 'This'. The guessing game was going nowhere anyways :)
+
+- File transfer and custom icon sending have been removed. Neither of them worked
+
+- Ha ha ha...  Server. The menu for connecting to a server has been removed for the time being. Server didn't work either.
+
+- While on the topic of servers, NChat now uses HTML for profiles and chatting, just like a web-page! oooh!
+
+- How did that last one relate to servers? nm. modRTB is now known as modText, simply because there is only 2 RTB functions, instead of 3. And it wasn't really just functions for
+
+- Now starting to compile NChat packages. They are available off the web-site, and can enhance NChat's functions. New smileys, profiles, AI Scripts and VBScripts. All available for free off the web-site.
+
+- frmWelcome now exists. People can set up NChat through this. Makes it seem like a professional application... yeah right
+
+- NChat packages released onto www.solidinc.tk under the NChat forums. More to come!
+
+- Default button bug with frmChat fixed. When you type something and hit return, it will now send. Cool!
+
+- Almost all unnecessary controls on frmChat have been removed. They did nothing, and were experiments with user icons etc.
+
+- Annoying code with 1st private message fixed. You can now send and recieve private messages OK now
+
+- 'Skinning' of frmChat removed, because it looked unusual with the whiteboard (if you used the 'Solid' theme)
+
+- Tool tips added to frmChat toolbar, to make it easier to work out what each button does
+
+- frmDownloads tweaked to point DIRECTLY to the packs page. No more browsing!!
+
+- Project was on hold for several months while another programmer worked on it. No changes were made, so project has resumed, and is being developed for use over the internet
+
+- Basic Data Check in place. SHA-Hash of data is created and checked against incoming data. Mismatched hashes are deemed to be faulty, and are not delivered to all recipients.
+
+- Data is now standardised. ALL Data contains a username, SHA-Hash and IP information header, for ease of use.

@@ -1,0 +1,171 @@
+' This is the Smiley Set file. Here, you can specify the location of as many as 1000 smileys (If you need that many)
+' It's simple. Set the file out like this:
+
+' [Smiley name]
+' Location=smiley_file_name.gif
+' Caption=This is the caption when you hover over the pic
+
+[:headbang]
+Location=headbang.gif
+Caption=Let's Party down, dynamite!
+
+[:)]
+Location=smiley.gif
+Caption=:)
+
+[:roll]
+Location=roll.gif
+Caption=Keep on rollin'
+
+[:censored]
+Location=censored.gif
+Caption=@!%&#
+
+[:wow]
+Location=wow.gif
+Caption=wow...
+
+[:grr]
+Location=grr.gif
+Caption=GRR!!!...
+
+[:wave]
+Location=wave.gif
+Caption=Hello! Over here!
+
+[:idea]
+Location=idea.gif
+Caption=Hey, I got a good idea!
+
+[:wanker]
+Location=wanker.gif
+Caption=pfft. Your a wanker mate!
+
+[:rolleyes]
+Location=rolleyes.gif
+Caption=oh please...
+
+[:ass]
+Location=ass.gif
+Caption=Kiss my shiny metal butt
+
+[:crazy]
+Location=crazy.gif
+Caption=Dude, your losing it!
+
+[:thumbsup]
+Location=thumbsup.gif
+Caption=Yeah! Go for it!
+
+[:zzz]
+Location=zzz.gif
+Caption=Can't talk... Sleeping
+
+[:smoke]
+Location=smoke.gif
+Caption=Crank up a Marley!
+
+[:?]
+Location=huh.gif
+Caption=WTF?
+
+[:cry]
+Location=cry.gif
+Caption=*sob*
+
+[:dunno]
+Location=dunno.gif
+Caption=I dunno. Why ask me?
+
+[:devil]
+Location=devil.gif
+Caption=Fear me, for I am the devil!
+
+[:eat]
+Location=eat.gif
+Caption=Can't talk, eating...
+
+[:buzzin]
+Location=buzzin.gif
+Caption=Can't sleep?
+
+[:evil]
+Location=evil.gif
+Caption=DON'T MESS WITH ME!
+
+[:fish]
+Location=fish.gif
+Caption=Something smell fishy?
+
+[:out]
+Location=out.gif
+Caption=3... 2... 1...
+
+[:kick]
+Location=kick.gif
+Caption=I'll kick you square in the balls!
+
+[:hammer]
+Location=hammer.gif
+Caption=If I had a hammer...
+
+[:violin]
+Location=violin.gif
+Caption=Looking for sympathy? Keep looking
+
+[:drink]
+Location=drink.gif
+Caption=Bartenders do it 'till you barf
+
+[:bash]
+Location=bash.gif
+Caption=Bash his eyes out!
+
+[:freddy]
+Location=freddy.gif
+Caption=Want to see my chainsaw and hocky masK?
+
+[:vomit]
+Location=vomit.gif
+Caption=Bartenders to it 'till you barf
+
+[:thumbsdown]
+Location=thumbsdown.gif
+Caption=I don't think so Tim.
+
+[:flush]
+Location=flush.gif
+Caption=Biscuit bendin'
+
+[:chase]
+Location=chase.gif
+Caption=Come here so I can give you a 'hug'
+
+[:cut]
+Location=cut.gif
+Caption=Head feeling a little saw?
+
+[:@]
+Location=angry.gif
+Caption=$#!%@
+
+[:boom]
+Location=boom.gif
+Caption=Ka-Effin'-Boom!
+
+[:flame]
+Location=flame.gif
+Caption=Toasty warm!
+
+[:arnie]
+Location=arnie.gif
+Caption=I'll be back... Probably
+
+[:guns]
+Location=guns.gif
+Caption=Nothin' says fun like shooting antique cans
+
+[:breakdance]
+Location=breakdance.gif
+Caption=Got a brother named billy, and my teeth look silly, break it down now!
+
